@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ybcsye3l0bl17vec?svg=true)](https://ci.appveyor.com/project/Nolldor1/api-ci-qamid-51)
